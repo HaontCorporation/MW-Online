@@ -1,0 +1,5 @@
+c:\users\yanet\documents\visual studio 2012\Projects\MW-Online Remote Console\MW-Online Remote Console\bin\Debug\MW-Online Remote Console.exe
+c:\users\yanet\documents\visual studio 2012\Projects\MW-Online Remote Console\MW-Online Remote Console\bin\Debug\MW-Online Remote Console.pdb
+c:\users\yanet\documents\visual studio 2012\Projects\MW-Online Remote Console\MW-Online Remote Console\obj\Debug\MW-Online Remote Console.csprojResolveAssemblyReference.cache
+c:\users\yanet\documents\visual studio 2012\Projects\MW-Online Remote Console\MW-Online Remote Console\obj\Debug\MW-Online Remote Console.exe
+c:\users\yanet\documents\visual studio 2012\Projects\MW-Online Remote Console\MW-Online Remote Console\obj\Debug\MW-Online Remote Console.pdb

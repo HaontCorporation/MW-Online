@@ -1,0 +1,27 @@
+C:\Users\YaNet\Documents\Visual Studio 2012\Projects\MW-Online Launcher\MW-Online Launcher\bin\Release\MW-Online Launcher.exe.config
+C:\Users\YaNet\Documents\Visual Studio 2012\Projects\MW-Online Launcher\MW-Online Launcher\bin\Release\MW-Online Launcher.exe
+C:\Users\YaNet\Documents\Visual Studio 2012\Projects\MW-Online Launcher\MW-Online Launcher\bin\Release\MW-Online Launcher.pdb
+C:\Users\YaNet\Documents\Visual Studio 2012\Projects\MW-Online Launcher\MW-Online Launcher\bin\Release\az\MW-Online Launcher.resources.dll
+C:\Users\YaNet\Documents\Visual Studio 2012\Projects\MW-Online Launcher\MW-Online Launcher\bin\Release\en\MW-Online Launcher.resources.dll
+C:\Users\YaNet\Documents\Visual Studio 2012\Projects\MW-Online Launcher\MW-Online Launcher\bin\Release\ru\MW-Online Launcher.resources.dll
+C:\Users\YaNet\Documents\Visual Studio 2012\Projects\MW-Online Launcher\MW-Online Launcher\obj\Release\MW_Online_Launcher.FirstRunForm.resources
+C:\Users\YaNet\Documents\Visual Studio 2012\Projects\MW-Online Launcher\MW-Online Launcher\obj\Release\MW_Online_Launcher.Forms.FirstRunForm2.resources
+C:\Users\YaNet\Documents\Visual Studio 2012\Projects\MW-Online Launcher\MW-Online Launcher\obj\Release\MW_Online_Launcher.Forms.FirstRunFormReq.resources
+C:\Users\YaNet\Documents\Visual Studio 2012\Projects\MW-Online Launcher\MW-Online Launcher\obj\Release\MW_Online_Launcher.Forms.InstallFinished.resources
+C:\Users\YaNet\Documents\Visual Studio 2012\Projects\MW-Online Launcher\MW-Online Launcher\obj\Release\MW_Online_Launcher.Form1.resources
+C:\Users\YaNet\Documents\Visual Studio 2012\Projects\MW-Online Launcher\MW-Online Launcher\obj\Release\MW_Online_Launcher.UpdateForm.resources
+C:\Users\YaNet\Documents\Visual Studio 2012\Projects\MW-Online Launcher\MW-Online Launcher\obj\Release\MW_Online_Launcher.Properties.Resources.resources
+C:\Users\YaNet\Documents\Visual Studio 2012\Projects\MW-Online Launcher\MW-Online Launcher\obj\Release\MW_Online_Launcher.FirstRunForm.az.resources
+C:\Users\YaNet\Documents\Visual Studio 2012\Projects\MW-Online Launcher\MW-Online Launcher\obj\Release\MW_Online_Launcher.FirstRunForm.en.resources
+C:\Users\YaNet\Documents\Visual Studio 2012\Projects\MW-Online Launcher\MW-Online Launcher\obj\Release\MW_Online_Launcher.FirstRunForm.ru.resources
+C:\Users\YaNet\Documents\Visual Studio 2012\Projects\MW-Online Launcher\MW-Online Launcher\obj\Release\MW_Online_Launcher.Forms.FirstRunForm2.ru.resources
+C:\Users\YaNet\Documents\Visual Studio 2012\Projects\MW-Online Launcher\MW-Online Launcher\obj\Release\MW_Online_Launcher.Forms.FirstRunFormReq.en.resources
+C:\Users\YaNet\Documents\Visual Studio 2012\Projects\MW-Online Launcher\MW-Online Launcher\obj\Release\MW_Online_Launcher.Forms.FirstRunFormReq.ru.resources
+C:\Users\YaNet\Documents\Visual Studio 2012\Projects\MW-Online Launcher\MW-Online Launcher\obj\Release\MW_Online_Launcher.Forms.InstallFinished.ru.resources
+C:\Users\YaNet\Documents\Visual Studio 2012\Projects\MW-Online Launcher\MW-Online Launcher\obj\Release\MW_Online_Launcher.Form1.ru.resources
+C:\Users\YaNet\Documents\Visual Studio 2012\Projects\MW-Online Launcher\MW-Online Launcher\obj\Release\MW-Online Launcher.csproj.GenerateResource.Cache
+C:\Users\YaNet\Documents\Visual Studio 2012\Projects\MW-Online Launcher\MW-Online Launcher\obj\Release\az\MW-Online Launcher.resources.dll
+C:\Users\YaNet\Documents\Visual Studio 2012\Projects\MW-Online Launcher\MW-Online Launcher\obj\Release\en\MW-Online Launcher.resources.dll
+C:\Users\YaNet\Documents\Visual Studio 2012\Projects\MW-Online Launcher\MW-Online Launcher\obj\Release\ru\MW-Online Launcher.resources.dll
+C:\Users\YaNet\Documents\Visual Studio 2012\Projects\MW-Online Launcher\MW-Online Launcher\obj\Release\MW-Online Launcher.exe
+C:\Users\YaNet\Documents\Visual Studio 2012\Projects\MW-Online Launcher\MW-Online Launcher\obj\Release\MW-Online Launcher.pdb

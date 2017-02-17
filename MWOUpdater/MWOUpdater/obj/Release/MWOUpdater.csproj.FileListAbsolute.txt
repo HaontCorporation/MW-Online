@@ -1,0 +1,7 @@
+c:\users\yanet\documents\visual studio 2012\Projects\MWOUpdater\MWOUpdater\bin\Release\MWOUpdater.exe
+c:\users\yanet\documents\visual studio 2012\Projects\MWOUpdater\MWOUpdater\bin\Release\MWOUpdater.pdb
+c:\users\yanet\documents\visual studio 2012\Projects\MWOUpdater\MWOUpdater\obj\Release\MWOUpdater.Form1.resources
+c:\users\yanet\documents\visual studio 2012\Projects\MWOUpdater\MWOUpdater\obj\Release\MWOUpdater.Properties.Resources.resources
+c:\users\yanet\documents\visual studio 2012\Projects\MWOUpdater\MWOUpdater\obj\Release\MWOUpdater.csproj.GenerateResource.Cache
+c:\users\yanet\documents\visual studio 2012\Projects\MWOUpdater\MWOUpdater\obj\Release\MWOUpdater.exe
+c:\users\yanet\documents\visual studio 2012\Projects\MWOUpdater\MWOUpdater\obj\Release\MWOUpdater.pdb

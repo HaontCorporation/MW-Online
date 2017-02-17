@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MW_Online", "MW_Online\MW_Online.csproj", "{48BF3353-BD7F-448F-ADE5-2D9450D3B02D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48BF3353-BD7F-448F-ADE5-2D9450D3B02D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48BF3353-BD7F-448F-ADE5-2D9450D3B02D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48BF3353-BD7F-448F-ADE5-2D9450D3B02D}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{48BF3353-BD7F-448F-ADE5-2D9450D3B02D}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{48BF3353-BD7F-448F-ADE5-2D9450D3B02D}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{48BF3353-BD7F-448F-ADE5-2D9450D3B02D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48BF3353-BD7F-448F-ADE5-2D9450D3B02D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48BF3353-BD7F-448F-ADE5-2D9450D3B02D}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{48BF3353-BD7F-448F-ADE5-2D9450D3B02D}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{48BF3353-BD7F-448F-ADE5-2D9450D3B02D}.Release|Win32.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

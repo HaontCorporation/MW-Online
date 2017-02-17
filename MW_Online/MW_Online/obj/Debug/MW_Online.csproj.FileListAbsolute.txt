@@ -1,0 +1,10 @@
+c:\users\yanet\documents\visual studio 2012\Projects\MW_Online\MW_Online\bin\Debug\MW_Online.dll
+c:\users\yanet\documents\visual studio 2012\Projects\MW_Online\MW_Online\bin\Debug\MW_Online.pdb
+c:\users\yanet\documents\visual studio 2012\Projects\MW_Online\MW_Online\bin\Debug\NFSScript.dll
+c:\users\yanet\documents\visual studio 2012\Projects\MW_Online\MW_Online\bin\Debug\NFSScript.xml
+c:\users\yanet\documents\visual studio 2012\Projects\MW_Online\MW_Online\obj\Debug\MW_Online.dll
+c:\users\yanet\documents\visual studio 2012\Projects\MW_Online\MW_Online\obj\Debug\MW_Online.pdb
+C:\Users\YaNet\Documents\Visual Studio 2012\Projects\MW_Online\MW_Online\bin\Debug\MW_Online.dll.config
+C:\Users\YaNet\Documents\Visual Studio 2012\Projects\MW_Online\MW_Online\obj\Debug\MW_Online.Properties.Resources.resources
+C:\Users\YaNet\Documents\Visual Studio 2012\Projects\MW_Online\MW_Online\obj\Debug\MW_Online.UpdateForm.resources
+C:\Users\YaNet\Documents\Visual Studio 2012\Projects\MW_Online\MW_Online\obj\Debug\MW_Online.csproj.GenerateResource.Cache

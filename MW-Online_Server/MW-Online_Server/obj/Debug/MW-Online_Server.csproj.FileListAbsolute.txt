@@ -1,0 +1,7 @@
+c:\users\yanet\documents\visual studio 2012\Projects\MW-Online_Server\MW-Online_Server\bin\Debug\MW-Online_Server.exe
+c:\users\yanet\documents\visual studio 2012\Projects\MW-Online_Server\MW-Online_Server\bin\Debug\MW-Online_Server.pdb
+c:\users\yanet\documents\visual studio 2012\Projects\MW-Online_Server\MW-Online_Server\obj\Debug\MW-Online_Server.exe
+c:\users\yanet\documents\visual studio 2012\Projects\MW-Online_Server\MW-Online_Server\obj\Debug\MW-Online_Server.pdb
+C:\Users\YaNet\Documents\Visual Studio 2012\Projects\MW-Online_Server\MW-Online_Server\bin\Debug\NFSScript.dll
+C:\Users\YaNet\Documents\Visual Studio 2012\Projects\MW-Online_Server\MW-Online_Server\bin\Debug\NFSScript.xml
+C:\Users\YaNet\Documents\Visual Studio 2012\Projects\MW-Online_Server\MW-Online_Server\obj\Debug\MW-Online_Server.csprojResolveAssemblyReference.cache
